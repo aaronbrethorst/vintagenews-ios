@@ -5,6 +5,8 @@ An iOS app that shows you vintage newspapers from across the United States, retr
 
 I think this is actually really cool, but unfortunately Apple disagreed, and I don't have the patience right now to add the features necessary to convince them to publish it. Oh well.
 
+![App Screenshot](https://raw.github.com/aaronbrethorst/vintagenews-ios/master/screenshot.jpg "Screenshot")
+
 GPL3 Licensed
 =====
 
