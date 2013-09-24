@@ -7,6 +7,13 @@ I think this is actually really cool, but unfortunately Apple disagreed, and I d
 
 ![App Screenshot](https://raw.github.com/aaronbrethorst/vintagenews-ios/master/screenshot.jpg "Screenshot")
 
+Getting Started
+======
+
+* Clone the repo
+* `pod install`
+* `open Newspapers.xcworkspace`
+
 GPL3 Licensed
 =====
 

@@ -25,4 +25,4 @@ SPEC CHECKSUMS:
   SVWebViewController: 2e3a367237bb7072e54e05c6eaa82d21a12ba676
   YIFullScreenScroll: 2f3bd13324c3fefbc4f56ee590c9e1d48edfbdda
 
-COCOAPODS: 0.18.1
+COCOAPODS: 0.24.0
