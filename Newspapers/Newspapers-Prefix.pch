@@ -1,0 +1,24 @@
+//
+// Prefix header for all source files of the 'Newspapers' target in the 'Newspapers' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import "GAI.h"
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <AFNetworking/AFNetworking.h>
+#import <CHCSVParser/CHCSVParser.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <YIFullScreenScroll/YIFullScreenScroll.h>
+#import <SVWebViewController/SVWebViewController.h>
+#import <ActionSheetPicker/ActionSheetPicker.h>

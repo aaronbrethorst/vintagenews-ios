@@ -1,0 +1,28 @@
+PODS:
+  - ActionSheetPicker (0.0.2)
+  - AFNetworking (1.3.1)
+  - CHCSVParser (2.0.7)
+  - JRSwizzle (1.0)
+  - SVProgressHUD (0.9)
+  - SVWebViewController (0.1)
+  - YIFullScreenScroll (1.0.0):
+    - JRSwizzle (~> 1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker (~> 0.0.2)
+  - AFNetworking (~> 1.3.1)
+  - CHCSVParser (~> 2.0.7)
+  - SVProgressHUD (~> 0.9)
+  - SVWebViewController (~> 0.1)
+  - YIFullScreenScroll (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker: 16e212011d5c2e92b3e38609a58b93919b4056aa
+  AFNetworking: 9ec8aafb9269236a7630bd8d9838ce2ba30fa2a0
+  CHCSVParser: 30ac034cc0d37d9c783e7af96926270524836d70
+  JRSwizzle: 6242ff38485d870fc2636899048ee1ab883ae587
+  SVProgressHUD: 03d4845ec8e64591726428a08236c6a5489d45f8
+  SVWebViewController: 2e3a367237bb7072e54e05c6eaa82d21a12ba676
+  YIFullScreenScroll: 2f3bd13324c3fefbc4f56ee590c9e1d48edfbdda
+
+COCOAPODS: 0.18.1

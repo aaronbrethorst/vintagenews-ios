@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41D14175-4FB5-43DE-A020-9AA518DF55D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Newspapers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C205DA2D-23DE-4156-AE1B-FE1E3F3A6330</key>
+		<string>ssh://bitbucket.org/aaronbrethorst/newspapers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Newspapers.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C205DA2D-23DE-4156-AE1B-FE1E3F3A6330</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/aaronbrethorst/newspapers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C205DA2D-23DE-4156-AE1B-FE1E3F3A6330</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C205DA2D-23DE-4156-AE1B-FE1E3F3A6330</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newspapers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
